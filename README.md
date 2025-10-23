@@ -1,1 +1,5 @@
-
+Kevin Salmeron = salmeronk150@gmail.com
+Carlos barlos
+Emanuel Vargas
+Facundo Blas
+Melody lanza
